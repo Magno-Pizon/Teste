@@ -1,5 +1,6 @@
 # Projeto com README
 Um projeto de teste com um arquivo README 🚀
+
 <img src="./img/gifs-de-gato-dancando-0.gif" alt="Gatinho dançando">
 
 ## Tecnologia utilizadas
